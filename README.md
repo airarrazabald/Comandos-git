@@ -3,7 +3,7 @@
 ## 1. git init
 
 Inicializa un proyecto, me permite utilizar Git como control de versiones.
-Nos posicionamos en la carpeta y ejecutamo
+Nos posicionamos en la carpeta del proyecto y ejecutamos
 ```bash
 git init
 ```
