@@ -30,7 +30,9 @@ git add nuevoarchivo.js
 ## 10. git branch -d rama-heroes
 ## 11. git push
 Con este comando podemos subir nuestro codigo a un repositorio como por ejemplo github, gitlab, bitbucket, etc.
-test.
+```bash
+git push
+```
 
 ## 12. git commit -am
 ## 13. git pull
