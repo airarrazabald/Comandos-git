@@ -1,6 +1,9 @@
 # Comando útiles GIT
 
 ## 1. git init
+
+Inicializa un proyecto, me permite utilizar Git como control de versiones
+
 ## 2. git add .
 ## 3. git reset .
 ## 4. git commit
