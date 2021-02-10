@@ -13,17 +13,13 @@ agrega nuevos archivos al control de versiones
 
 * Agregar todos los nuevos archivos: 
 ```bash
-git add.
+git add .
 ```
 * Agregar un archivo especifico
 ```bash
 git add <file>
 git add nuevoarchivo.js
 ```
-
-
-
-
 ## 3. git reset .
 ## 4. git commit
 ## 5. git checkout -- .
@@ -33,6 +29,9 @@ git add nuevoarchivo.js
 ## 9. git checkout master
 ## 10. git branch -d rama-heroes
 ## 11. git push
+Con este comando podemos subir nuestro codigo a un repositorio como por ejemplo github, gitlab, bitbucket, etc.
+test.
+
 ## 12. git commit -am
 ## 13. git pull
 ## 14. git status
