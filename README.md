@@ -22,6 +22,6 @@ git init
 ## 14. git status
 
 Comando que nos permite ver el estado del proyecto en control de versiones
-* puede indicar si debe agregar archivos
-* RTealizar push en el repositorio 
-* si no hay cambios indicara your branch is up to date with origin/main donde origin main es la branch que esta trabajando 
+* Puede indicar si debe agregar archivos
+* Realizar push en el repositorio 
+* Si no hay cambios indicara your branch is up to date with origin/main donde origin main es la branch que esta trabajando 
