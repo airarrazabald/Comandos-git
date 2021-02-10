@@ -7,7 +7,6 @@ Nos posicionamos en la carpeta del proyecto y ejecutamos
 ```bash
 git init
 ```
-
 ## 2. git add .
 ## 3. git reset .
 ## 4. git commit
@@ -20,3 +19,9 @@ git init
 ## 11. git push
 ## 12. git commit -am
 ## 13. git pull
+## 14. git status
+
+Comando que nos permite ver el estado del proyecto en control de versiones
+* puede indicar si debe agregar archivos
+* RTealizar push en el repositorio 
+* si no hay cambios indicara your branch is up to date with origin/main donde origin main es la branch que esta trabajando 
