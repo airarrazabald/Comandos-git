@@ -41,7 +41,7 @@ git push
 Comando que nos permite ver el estado del proyecto en control de versiones
 * Puede indicar si debe agregar archivos
 * Realizar push en el repositorio 
-* Si no hay cambios indicara lo siguiente <dt>your branch is up to date with origin/main</dt> donde origin/main es la branch que esta trabajando 
+* Si no hay cambios indicara lo siguiente <b>your branch is up to date with origin/main</b> donde origin/main es la branch que esta trabajando 
 
 ## 15. Consideraciones
 ### .git ignore
