@@ -8,6 +8,22 @@ Nos posicionamos en la carpeta del proyecto y ejecutamos
 git init
 ```
 ## 2. git add .
+
+agrega nuevos archivos al control de versiones
+
+* Agregar todos los nuevos archivos: 
+```bash
+git add.
+```
+* Agregar un archivo especifico
+```bash
+git add <file>
+git add nuevoarchivo.js
+```
+
+
+
+
 ## 3. git reset .
 ## 4. git commit
 ## 5. git checkout -- .
