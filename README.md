@@ -32,6 +32,13 @@ Una forma mas rapida de agregar archivos al control de versiones (evitando el co
 git commit -am "MEnsaje del commit"
 ```
 ## 5. git checkout -- .
+Para reversar cambios locales como por ejemplo eliminación de archivos o modificación de archivos.
+
+```bash
+git checkout -- .
+```
+
+Este comando reversara todos los archivos del directorio actual.
 ## 6. git log
 Nos permite revisar el historial de commit de la rama actual
 ```bash
