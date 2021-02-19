@@ -34,6 +34,10 @@ Con este comando podemos subir nuestro codigo a un repositorio como por ejemplo 
 git push
 ```
 
+Al trabajar con ramas y queremos subir los cambios al repositorio remoto de esa rama especifica se debe ejecutar el siguiente comando
+```bash
+git push origin <nombre_rama>
+```
 ## 12. git commit -am
 ## 13. git pull
 ## 14. git status
