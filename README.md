@@ -86,7 +86,7 @@ git push origin <nombre_rama>
 
 ## 12. git pull
 Comando para actualizar con los ultimos cambios.
-Loque realiza es descargar y fusionar los cambios del repositorio remoto.
+Lo que realiza es descargar y fusionar los cambios del repositorio remoto en el ambiente local.
 ```bash
 git pull
 ```
@@ -101,7 +101,7 @@ Comando que nos permite ver el estado del proyecto en control de versiones
 ## 14. Consideraciones
 ### .git ignore
 
-Archivo de configuración que permite omitir directorios o archivos que sean considerados para commit
+Archivo de configuración que permite omitir directorios o archivos que sean considerados para commit.
 
 ### Ebook gratuito
 Todos los comando incluidos en este pequeño manual los puedes revisar en mayor detalle en el siguiente ebook gratutio de la pgina oficial de git:
