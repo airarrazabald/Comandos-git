@@ -22,6 +22,15 @@ git add nuevoarchivo.js
 ```
 ## 3. git reset .
 ## 4. git commit
+El commando git Coomit permite guardar los cambios realizados.
+Debemos incluir el ocmando -m pa elmensaje del commit
+```bash
+git commit -m "Mensaje del commit"
+```
+Una forma mas rapida de agregar archivos al control de versiones (evitando el comando git add) es agregando -am
+```bash
+git commit -am "MEnsaje del commit"
+```
 ## 5. git checkout -- .
 ## 6. git log
 ## 7. git commit --amend
@@ -34,11 +43,14 @@ Con este comando podemos subir nuestro codigo a un repositorio como por ejemplo 
 git push
 ```
 
-Al trabajar con ramas y queremos subir los cambios al repositorio remoto de esa rama especifica se debe ejecutar el siguiente comando
+Al trabajar con ramas, y si necesitamos subir los cambios a un repositorio remoto, debemos ejecutar el siguiente comando
 ```bash
 git push origin <nombre_rama>
 ```
 ## 12. git commit -am
+
+
+
 ## 13. git pull
 ## 14. git status
 
@@ -53,7 +65,4 @@ Comando que nos permite ver el estado del proyecto en control de versiones
 Todos los comando incluidos en este pequeño manual los puedes revisar en mayor detalle en el siguiente ebook gratutio de la pgina oficial de git:
 [Ebook git](https://git-scm.com/book/es/v2)
 
-test
-
-test 2
 
