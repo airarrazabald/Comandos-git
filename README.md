@@ -59,6 +59,12 @@ git push origin <nombre_rama>
 ```
 
 ## 12. git pull
+Comando para actualizar con los ultimos cambios.
+Loque realiza es descargar y fusionar los cambios del repositorio remoto.
+```bash
+git pull
+```
+
 ## 13. git status
 
 Comando que nos permite ver el estado del proyecto en control de versiones
