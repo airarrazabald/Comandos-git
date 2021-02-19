@@ -33,9 +33,19 @@ git commit -am "MEnsaje del commit"
 ```
 ## 5. git checkout -- .
 ## 6. git log
+Nos permite revisar el historial de commit de la rama actual
+```bash
+git log 
+```
 ## 7. git commit --amend
-## 8. git checkout -b rama-heroes
-## 9. git checkout master
+## 8. git checkout -b nombre-rama
+
+## 9. git checkout nombre-rama
+Comando para cambiar de rama.
+```bash
+git checkout <nombre-rama>
+git checkout rama-pruebas
+```
 ## 10. git branch -d rama-heroes
 ## 11. git push
 Con este comando podemos subir nuestro codigo a un repositorio como por ejemplo github, gitlab, bitbucket, etc.
@@ -47,19 +57,16 @@ Al trabajar con ramas, y si necesitamos subir los cambios a un repositorio remot
 ```bash
 git push origin <nombre_rama>
 ```
-## 12. git commit -am
 
-
-
-## 13. git pull
-## 14. git status
+## 12. git pull
+## 13. git status
 
 Comando que nos permite ver el estado del proyecto en control de versiones
 * Puede indicar si debe agregar archivos
 * Realizar push en el repositorio 
 * Si no hay cambios indicara lo siguiente <b>your branch is up to date with origin/main</b> donde origin/main es la branch que esta trabajando 
 
-## 15. Consideraciones
+## 14. Consideraciones
 ### .git ignore
 ### Ebook gratuito
 Todos los comando incluidos en este pequeño manual los puedes revisar en mayor detalle en el siguiente ebook gratutio de la pgina oficial de git:
