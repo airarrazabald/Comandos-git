@@ -91,6 +91,7 @@ Lo que realiza es descargar y fusionar los cambios del repositorio remoto en el 
 git pull
 ```
 
+
 ## 13. git status
 
 Comando que nos permite ver el estado del proyecto en control de versiones
