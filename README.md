@@ -92,6 +92,7 @@ git pull
 ```
 
 
+test nuevo repositorio
 ## 13. git status
 
 Comando que nos permite ver el estado del proyecto en control de versiones
