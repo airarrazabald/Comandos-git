@@ -15,7 +15,7 @@ git config –global user.name “Your Username Here”
 git config –global user.email “user@domain.com”
 ```
 ## 3. git clone
-clonar un repositorio remoto de repositorio remoto
+clonar un repositorio remoto
 ```bash
 git clone "url.git"
 
