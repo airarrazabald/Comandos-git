@@ -1,4 +1,4 @@
-# Comando avanzados GIT
+# Comandos avanzados GIT
 ## Introducción
 En esta sección nos centraremos en problematicas en la que necesitamos ejecutar mas de un comando.
 Tambien podremos encontrar solución a posibles errores
