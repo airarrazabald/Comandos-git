@@ -134,6 +134,6 @@ Todos los comando incluidos en este pequeño manual los puedes revisar en mayor 
 [Ebook git](https://git-scm.com/book/es/v2)
 
 ### Links
-* [Comandos Avanzados](https://git-scm.com/book/es/v2)
+* [Comandos Avanzados](https://github.com/airarrazabald/Comandos-git/blob/Correccion-comandos/COMANDOS-AVANZADOS.md)
 
 
