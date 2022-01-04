@@ -79,7 +79,7 @@ git checkout <nombre-rama>
 git checkout rama-pruebas
 ```
 ## 12. git branch -d
-Para eliminar una rama en desuso ejecutamois el siguiente comando
+Para eliminar una rama en desuso ejecutamos el siguiente comando
 ```bash
 git branch -d <nombre-rama>
 git branch -d rama-desarrollo
@@ -94,6 +94,8 @@ Al trabajar con ramas, y si necesitamos subir los cambios a un repositorio remot
 ```bash
 git push origin <nombre_rama>
 ```
+
+Si la rama no existe en el repositorio remoto crear una nueva
 ## 14. git pull
 Comando para actualizar con los ultimos cambios.
 Lo que realiza es descargar y fusionar los cambios del repositorio remoto en el ambiente local.
@@ -111,7 +113,7 @@ Comando que nos permite ver el estado del proyecto en control de versiones
 El comando git tag permite crear etiquetas para el versionamiento. 
 Las etiquetas son referencias que apuntan a puntos concretos en el historial de Git
 
-* para crear una nueva etieuta ejecutamos el siguient comando
+* para crear una nueva etieuta ejecutamos el siguiente comando
 ```bash
 git tag -a <nombre-version> -m <"Mensaje opcional">
 
@@ -128,7 +130,10 @@ git push --tags
 Archivo de configuración que permite omitir directorios o archivos que sean considerados para commit.
 
 ### Ebook gratuito
-Todos los comando incluidos en este pequeño manual los puedes revisar en mayor detalle en el siguiente ebook gratutio de la pgina oficial de git:
+Todos los comando incluidos en este pequeño manual los puedes revisar en mayor detalle en el siguiente ebook gratutio de la pagina oficial de git:
 [Ebook git](https://git-scm.com/book/es/v2)
+
+### Links
+* [Comandos Avanzados](https://git-scm.com/book/es/v2)
 
 
